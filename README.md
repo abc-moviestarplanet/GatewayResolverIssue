@@ -1,5 +1,5 @@
 # How to Reproduce
-* Run the 2 subgraphs and the gateway (`npm start` on each one)
+* Run the 2 subgraphs and the gateway (`npm install && npm start` on each one)
 * Go to http://localhost:3000/graphiql
 * Execute the following query:
 ```graphql
